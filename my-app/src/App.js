@@ -4,7 +4,7 @@ import ShoesStore from './Components/ShoesStore'
 export default function App() {
   return (
     <div>
-      < ShoesStore />
+      <ShoesStore />
     </div>
   )
 }
